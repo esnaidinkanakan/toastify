@@ -2,7 +2,7 @@
 
 A lightweight, dependency-free JavaScript toast notification library. You choose where toasts appear and configure how they look and behave.
 
-**Live demo:** `https://edin101021.github.io/toastify/`
+**Live demo:** `https://esnaidinkanakan.github.io/toastify/`
 
 ## Install
 
