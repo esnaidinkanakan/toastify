@@ -84,13 +84,6 @@ Toastify.promise(fetch('/api/save'), {
 | `Toastify.configure(options)` | Set global defaults |
 | `Toastify.reset()` / `Toastify.destroy()` | Restore defaults / remove everything |
 
-## Deploy the demo to GitHub Pages
-
-1. Create a new repository on GitHub and upload `index.html`, `toastify.js` and `README.md` to the root.
-2. Go to **Settings → Pages**.
-3. Under **Build and deployment**, set **Source** to *Deploy from a branch*, choose `main` and `/ (root)`, then **Save**.
-4. After a minute or two the demo is live at `https://edin101021.github.io/toastify/`.
-
 ---
 
 Designed & built by Edin
