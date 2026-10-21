@@ -17,7 +17,7 @@ It also works with CommonJS (`require('./toastify.js')`), ES imports in bundlers
 Or load it from GitHub through jsDelivr:
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/edin101021/toastify@v1.0.0/toastify.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/esnaidinkanakan/toastify@v1.0.0/toastify.js"></script>
 ```
 
 ## Usage
